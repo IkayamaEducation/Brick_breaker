@@ -33,8 +33,8 @@ Game ini mendemonstrasikan konsep pemrograman fundamental seperti variabel, list
 
 | Tombol              | Aksi                                     |
 | ------------------- | ---------------------------------------- |
-| ← LEFT (KIRI)/A     | Menggerakkan Snake ke kiri               |
-| → RIGHT (KANAN)/D   | Menggerakkan Snake ke kanan              |
+| ← LEFT (KIRI)/A     | Menggerakkan Paddle ke kiri              |
+| → RIGHT (KANAN)/D   | Menggerakkan Paddle ke kanan             |
 | R                   | Restart Game                             |
 
 ## Source Code
